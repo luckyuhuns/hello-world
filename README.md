@@ -1,2 +1,2 @@
 # hello-world
-just getting used to github
+actually i think it should be "just getting use to github"
